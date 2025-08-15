@@ -24,16 +24,16 @@
 </div>
 
 ###  💻 Языки программирования 
-<div>
+
   <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" title="kotlin" alt="jira" width="40" height="40"/> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png?f=webp" title="java" alt="jira" width="40" height="40"/> 
-<\div>
+
   
 ---
 
 ### 💻 Пройденные курсы:
  
- <img src="https://stepik.org/certificate/49d52340ed028c5814ee2dab9895f3bdbf944d82.png?resolution=medium" title="kotlin" alt="jira" width="560" height="400"/>&nbsp
+ <img src="https://stepik.org/certificate/49d52340ed028c5814ee2dab9895f3bdbf944d82.png?resolution=medium" title="kotlin" alt="jira" width="560" height="400"/>
 
 ### 🤝Связаться со мной: 
 
@@ -46,4 +46,3 @@
     </a>
   </div>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
