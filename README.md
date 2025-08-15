@@ -25,8 +25,7 @@
 
 ###  💻 Языки программирования 
 
-  <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" title="kotlin" alt="jira" width="40" height="40"/> 
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png?f=webp" title="java" alt="jira" width="40" height="40"/> 
+  <img src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" title="kotlin" alt="jira" width="40" height="40"/>  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png?f=webp" title="java" alt="jira" width="40" height="40"/> 
 
   
 ---
