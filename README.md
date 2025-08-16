@@ -21,6 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/> 
+  <img src="  https://user-images.githubusercontent.com/8445726/89437374-10705280-d77a-11ea-98fa-9f0827a7939b.png" title="jenkins" alt="vscode" width="40" height="40"/> 
+ 
 </div>
 
 ###  💻 Языки программирования 
@@ -32,7 +34,7 @@
 
 ### 💻 Пройденные курсы:
  
- <img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/91780c8e-4252-4a0b-ae69-448ff82a2ff9" />
+ <img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/657beed5-3ee6-4422-8c1c-43ee24b8adaa" />
 
 ### 🤝Связаться со мной: 
 
