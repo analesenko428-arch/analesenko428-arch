@@ -1,4 +1,4 @@
-# Привет, меня зовут Аня
+<img width="842" height="596" alt="image" src="https://github.com/user-attachments/assets/a4bfc363-04f3-41cf-962c-6060d7679390" /># Привет, меня зовут Аня
 
 ### 👨‍💻 Обо мне:
 
@@ -32,7 +32,7 @@
 
 ### 💻 Пройденные курсы:
  
- <img src="https://stepik.org/certificate/49d52340ed028c5814ee2dab9895f3bdbf944d82.png?resolution=medium" title="kotlin" alt="jira" width="560" height="400"/>
+ <img src="https://stepik.org/certificate/49d52340ed028c5814ee2dab9895f3bdbf944d82.png?resolution=medium" title="certificate" alt="jira" width="560" height="400"/>
 
 ### 🤝Связаться со мной: 
 
